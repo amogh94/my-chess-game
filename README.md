@@ -1,6 +1,6 @@
 # Chess Game
 
-To play, clone or download this repository and open the index.html file in your browser.
+To play the game, clone or download this repository and open the [index.html](https://github.com/amogh94/my-chess-game/blob/master/index.html) file in your browser.
 
 The game is built using the following libraries:
 - [chess.js](https://github.com/jhlywa/chess.js) for game state
